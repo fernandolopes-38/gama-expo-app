@@ -1,0 +1,23 @@
+Slash screen => tela de carregamento
+
+    Alteração da splash screen dentro do expo
+        .app.json
+                "splash": {
+                    "image": "./assets/splash.png",
+                    "resizeMode": "contain",
+                    "backgroundColor": "#ffffff"
+                },
+
+    Extensão autorename tag
+
+    Vercel => webapp
+    
+    react native => build native
+        => pwa.
+
+    Documentação
+        - como baixar
+        - como rodar
+        - como foi dividido as tarefas
+        - onde abrir a applicação
+        - bibliotecas (axios, unform, styled components)
